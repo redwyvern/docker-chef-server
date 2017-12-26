@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM docker.artifactory.weedon.org.au/redwyvern/ubuntu-base:xenial
 
 EXPOSE 25/tcp 465/tcp 587/tcp
 
